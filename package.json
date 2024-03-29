@@ -1,6 +1,6 @@
 {
-  "name": "hz0simple-calculator",
-  "version": "1.0.1",
+  "name": "hz0xsimple-calculator",
+  "version": "1.0.2",
   "description": "\"A simple calculator with typescript,Node.js and inquirer,",
   "main": "index.js",
   "type": "module",
